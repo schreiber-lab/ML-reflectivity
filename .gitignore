@@ -1,0 +1,8 @@
+*.hdf5
+.idea/
+__pycache__/
+Graph/
+*.txt
+*.dat
+*_old*
+*.svg
