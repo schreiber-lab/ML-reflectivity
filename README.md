@@ -1,9 +1,11 @@
 # ML-reflectivity
-Fast fitting of reflectivity curves using machine learning.
+Fast fitting of reflectivity curves using machine learning. [![DOI](https://zenodo.org/badge/212805647.svg)](https://zenodo.org/badge/latestdoi/212805647)
 
-This code was used in the following scientific publication:
+This code was used in the following scientific publication: 
 
 [1] Fast Fitting of Reflectivity Data of Growing Thin Films Using Neural Networks  A. Greco, V. Starostin, C. Karapanagiotis, A. Hinderhofer, A. Gerlach, L. Pithan, S. Liehr, F. Schreiber, & S. Kowarik (2019). _J. Appl. Cryst._, in print.
+
+A co-developed version of this software with a graphical user interface can be found at [kowarik-labs/AI-reflectivity](https://github.com/kowarik-labs/AI-reflectivity).
 
 ## Disclaimer
 This repository mainly serves as a public archive for the code used in [1] and is not yet optimized for the use by other researchers. Future updates will improve the functionality and usability of the program.
