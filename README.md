@@ -1,5 +1,7 @@
 # ML-reflectivity
-Fast fitting of reflectivity curves using machine learning. [![DOI](https://zenodo.org/badge/212805647.svg)](https://zenodo.org/badge/latestdoi/212805647)
+[![DOI](https://zenodo.org/badge/212805647.svg)](https://zenodo.org/badge/latestdoi/212805647)
+
+Fast fitting of reflectivity curves using machine learning.
 
 This code was used in the following scientific publication: 
 
