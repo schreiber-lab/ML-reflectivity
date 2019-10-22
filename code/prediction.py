@@ -15,7 +15,6 @@ config = config_loader.ConfigLoader('organic.config')
 def main():
     # load the model
     model_name = config.get_model_name()
-    # model_name = 'model_run1.hdf5'
 
     custom_object_dict = dict([('abs_err_%d' % (i + 1), training.y_absolute_error(i + 1)) for i in range(4)])
     custom_object_dict['abs_err'] = training.y_absolute_error(0)
